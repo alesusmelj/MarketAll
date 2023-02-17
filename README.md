@@ -11,3 +11,4 @@ Contiene:
 
 * POO
 * Interfaces con JSwing
+* Diagramas con UML (clases, casos de uso, secunciales, comunicación)
